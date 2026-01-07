@@ -94,6 +94,16 @@ header .container button, .plans .image div button{
     margin-bottom: 24px;
 }
 
+.bottom .plans .logo-container .logo{
+    text-align: center;
+}
+.bottom .plans .logo-container .logo img{
+    margin-bottom: 20px;
+}
+.bottom .plans .logo-container .logo p{
+    margin-top: 20px;
+    font-weight: lighter;
+}
   
 
 footer{
